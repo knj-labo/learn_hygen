@@ -1,5 +1,5 @@
 ---
-to: "<%= have_css? `${abs_path}/index.module.scss` : null %>"
+to: "<%= have_scss? `${abs_path}/index.module.scss` : null %>"
 ---
 .base {
 

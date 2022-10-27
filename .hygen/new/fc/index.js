@@ -16,8 +16,8 @@ module.exports = {
             },
             {
                 type: 'confirm',
-                name: 'have_css',
-                message: 'Is it have css?',
+                name: 'have_scss',
+                message: 'Is it have scss?',
             },
             {
                 type: 'confirm',
